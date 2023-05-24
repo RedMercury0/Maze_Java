@@ -1,5 +1,5 @@
 # Maze_Java
-  Maze game made in java
+  Maze game made in java.
   This is an old project of mine made few years ago when i was learning java.
 
 # How to navigate in game
