@@ -14,8 +14,7 @@
              While playing the game you can enter the PAUSE mode by pressing P.</br>
   
   Game end:</br> 
-           When the game ends with LOSS/WIN/DRAW you can either go back to the Main Menu by pressing ENTER,</br>
-           or you can quit the game by pressing X.</br>
+           When the game ends with LOSS/WIN/DRAW you can either go back to the Main Menu by pressing ENTER, or you can quit the game by pressing X.</br>
   
   Cheat code: </br>
              You can activate a cheat to gain 1000 points instantly by typing this code " m;kfa "</br>
